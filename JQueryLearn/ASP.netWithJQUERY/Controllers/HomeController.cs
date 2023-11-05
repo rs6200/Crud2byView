@@ -1,6 +1,7 @@
 ﻿using ASP.netWithJQUERY.Data;
 using ASP.netWithJQUERY.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Diagnostics;
 
 namespace ASP.netWithJQUERY.Controllers
@@ -32,10 +33,10 @@ namespace ASP.netWithJQUERY.Controllers
 
 		public JsonResult getStateById(int id)
 		{
-			List<State> list =  List<State>();
+			List<State> list = new List<State>();
 			list = _context.States.Where(a=> a.Country.Id == id).ToList();
-			list.Insert(0, new state { id = 0, Name = "Please select state" });
-			return  Json(new SelecList(list,"Id","Name"));
+			list.Insert(0, new State { Id = 0, Name = "Please select state" });
+			return  Json(new SelectList(list,"Id","Name"));
 		}
 
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
