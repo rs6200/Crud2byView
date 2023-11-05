@@ -1,0 +1,13 @@
+D:\DOTNET\DotnetStudy\DotnetStudy\bin\Debug\net6.0\DotnetStudy.exe
+D:\DOTNET\DotnetStudy\DotnetStudy\bin\Debug\net6.0\DotnetStudy.deps.json
+D:\DOTNET\DotnetStudy\DotnetStudy\bin\Debug\net6.0\DotnetStudy.runtimeconfig.json
+D:\DOTNET\DotnetStudy\DotnetStudy\bin\Debug\net6.0\DotnetStudy.dll
+D:\DOTNET\DotnetStudy\DotnetStudy\bin\Debug\net6.0\DotnetStudy.pdb
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\DotnetStudy.csproj.AssemblyReference.cache
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\DotnetStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\DotnetStudy.csproj.CoreCompileInputs.cache
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\DotnetStudy.dll
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\refint\DotnetStudy.dll
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\DotnetStudy.pdb
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\DotnetStudy.genruntimeconfig.cache
+D:\DOTNET\DotnetStudy\DotnetStudy\obj\Debug\net6.0\ref\DotnetStudy.dll

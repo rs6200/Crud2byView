@@ -1,0 +1,15 @@
+D:\DOTNET\LINQStudy\LINQStudy\bin\Debug\net6.0\LINQStudy.exe
+D:\DOTNET\LINQStudy\LINQStudy\bin\Debug\net6.0\LINQStudy.deps.json
+D:\DOTNET\LINQStudy\LINQStudy\bin\Debug\net6.0\LINQStudy.runtimeconfig.json
+D:\DOTNET\LINQStudy\LINQStudy\bin\Debug\net6.0\LINQStudy.dll
+D:\DOTNET\LINQStudy\LINQStudy\bin\Debug\net6.0\LINQStudy.pdb
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.csproj.AssemblyReference.cache
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.AssemblyInfoInputs.cache
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.AssemblyInfo.cs
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.csproj.CoreCompileInputs.cache
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.dll
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\refint\LINQStudy.dll
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.pdb
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\LINQStudy.genruntimeconfig.cache
+D:\DOTNET\LINQStudy\LINQStudy\obj\Debug\net6.0\ref\LINQStudy.dll

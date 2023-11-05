@@ -1,0 +1,62 @@
+﻿@model ASP.netWithJQUERY.Models.addition
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Index Page of Home</h1>
+
+<button id="btn">Press for Toggle</button>
+<div id="div1" style="display:none">Hello wolrd</div>
+
+@*for creating html box*@
+@using (Html.BeginForm())
+{
+    @Html.TextBoxFor(model=>model.FirstNumber)
+    @Html.TextBoxFor(model=>model.SecondNumber)
+    @Html.TextBoxFor(model=>model.result)
+}
+<div id="getdatestring"></div>
+<div id="getInfo"></div>
+
+@*<a href="~/lib/jquery/dist/jquery.min.map">~/lib/jquery/dist/jquery.min.map</a>*@
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+@*<script src="~/Scripts/jquery-1.10.2.js"></script>*@
+<script>
+    //funtion for toggle
+    $(document).ready(function () {
+        $("#btn").click(function () {
+            $("#div1").toggle();
+
+        })
+
+    });
+
+    //how to add function on blur
+    $(function () {
+        $("#SecondNumber").blur(function () {
+
+            $("#result").val(parseInt($("#FirstNumber").val()) + parseInt($("#SecondNumber").val()))
+        })
+
+    })
+
+    $(function () {
+        var url = "/Home/getDateTime";
+        $.get(url, null, function (data) {
+            $("#getdatestring").html(data);
+
+        })
+    })
+
+    $(function () {
+        var url = "/Home/getInfo";
+        var firstName = "ranveer";
+        var lastName = "Singh";
+
+        $.get(url, { firstName: firstName, lastName: lastName }, function (data) {
+            $("#getInfo").html(data);
+
+        })
+    })
+</script>

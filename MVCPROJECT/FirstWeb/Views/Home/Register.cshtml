@@ -1,0 +1,58 @@
+﻿@model FirstWeb.Controllers.UserRegister
+
+@*<form method="post">*@
+	<div class="container">
+		<div class="row">
+			<div class="col-4 offset-4 border border-primary rounded px-5 pb-3">
+				<div class="text-center">
+					<h2 class="text-info">User Registration form</h2>
+
+				</div>
+				<form method="post" asp-action="Register">
+					<div class="form-group">
+					<label asp-for="FirstName"></label>
+					<input asp-for="FirstName" placeholder="Enter first name" class="form-control" autocomplete="on" />
+					<span asp-validation-for="FirstName"></span>
+					</div>
+				<div class="form-group">
+					<label asp-for="LastName"></label>
+					<input asp-for="LastName" placeholder="Enter last name" class="form-control" autocomplete="on" />
+					<span asp-validation-for="LastName"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="Email"></label>
+					<input asp-for="Email" placeholder="Enter email" class="form-control" autocomplete="on" />
+					<span asp-validation-for="Email"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="PhoneNumber"></label>
+					<input asp-for="PhoneNumber" placeholder="Enter phone number" class="form-control" autocomplete="on" />
+					<span asp-validation-for="PhoneNumber"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="Password"></label>
+					<input type="password" asp-for="Password" class="form-control" autocomplete="on" />
+					<span asp-validation-for="Password"></span>
+				</div>
+				<div class="form-group">
+					<label asp-for="ConfirmPassword"></label>
+					<input type="password" asp-for="ConfirmPassword" class="form-control" autocomplete="on" />
+					<span asp-validation-for="ConfirmPassword"></span>
+				</div>
+				<div class="form-group">
+					<button type="submit" class="btn btn-success form-control my-2">Register</button>
+				</div>
+				<div class="form-group text-center">
+					<a  class="text-center text-decoration-none my-2">Forgot password?</a>
+				</div>
+				<div class="form-group">
+<a href="~/Home/Login" class="btn btn-outline-secondary text-primary my-2 form-control">Login</a>
+				</div>
+				</form>
+
+			</div>
+		</div>
+
+	</div>
+
+@*</form>*@

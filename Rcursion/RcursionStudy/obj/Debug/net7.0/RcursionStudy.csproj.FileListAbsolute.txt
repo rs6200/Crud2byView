@@ -1,0 +1,15 @@
+D:\DOTNET\Rcursion\RcursionStudy\bin\Debug\net7.0\RcursionStudy.exe
+D:\DOTNET\Rcursion\RcursionStudy\bin\Debug\net7.0\RcursionStudy.deps.json
+D:\DOTNET\Rcursion\RcursionStudy\bin\Debug\net7.0\RcursionStudy.runtimeconfig.json
+D:\DOTNET\Rcursion\RcursionStudy\bin\Debug\net7.0\RcursionStudy.dll
+D:\DOTNET\Rcursion\RcursionStudy\bin\Debug\net7.0\RcursionStudy.pdb
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.csproj.AssemblyReference.cache
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.AssemblyInfoInputs.cache
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.AssemblyInfo.cs
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.csproj.CoreCompileInputs.cache
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.dll
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\refint\RcursionStudy.dll
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.pdb
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\RcursionStudy.genruntimeconfig.cache
+D:\DOTNET\Rcursion\RcursionStudy\obj\Debug\net7.0\ref\RcursionStudy.dll

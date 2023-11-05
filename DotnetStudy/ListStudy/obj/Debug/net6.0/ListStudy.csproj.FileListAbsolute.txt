@@ -1,0 +1,15 @@
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.csproj.AssemblyReference.cache
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.AssemblyInfoInputs.cache
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.AssemblyInfo.cs
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.csproj.CoreCompileInputs.cache
+D:\DOTNET\DotnetStudy\ListStudy\bin\Debug\net6.0\ListStudy.exe
+D:\DOTNET\DotnetStudy\ListStudy\bin\Debug\net6.0\ListStudy.deps.json
+D:\DOTNET\DotnetStudy\ListStudy\bin\Debug\net6.0\ListStudy.runtimeconfig.json
+D:\DOTNET\DotnetStudy\ListStudy\bin\Debug\net6.0\ListStudy.dll
+D:\DOTNET\DotnetStudy\ListStudy\bin\Debug\net6.0\ListStudy.pdb
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.dll
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\refint\ListStudy.dll
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.pdb
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ListStudy.genruntimeconfig.cache
+D:\DOTNET\DotnetStudy\ListStudy\obj\Debug\net6.0\ref\ListStudy.dll

@@ -1,0 +1,15 @@
+D:\DOTNET\DotnetStudy\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.exe
+D:\DOTNET\DotnetStudy\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.deps.json
+D:\DOTNET\DotnetStudy\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.runtimeconfig.json
+D:\DOTNET\DotnetStudy\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.dll
+D:\DOTNET\DotnetStudy\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.pdb
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.AssemblyReference.cache
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfoInputs.cache
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfo.cs
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.dll
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\refint\BoxingUnboxing.dll
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.pdb
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.genruntimeconfig.cache
+D:\DOTNET\DotnetStudy\BoxingUnboxing\obj\Debug\net6.0\ref\BoxingUnboxing.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPSTUDY", "ASPSTUDY\ASPSTUDY.csproj", "{7E554C55-99ED-42CD-8629-C35CF7BF4A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{EBD2CADE-299A-4E98-B1DB-220C6AE54596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E554C55-99ED-42CD-8629-C35CF7BF4A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E554C55-99ED-42CD-8629-C35CF7BF4A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E554C55-99ED-42CD-8629-C35CF7BF4A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E554C55-99ED-42CD-8629-C35CF7BF4A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD2CADE-299A-4E98-B1DB-220C6AE54596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD2CADE-299A-4E98-B1DB-220C6AE54596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD2CADE-299A-4E98-B1DB-220C6AE54596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD2CADE-299A-4E98-B1DB-220C6AE54596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15FCBE80-187D-46C8-99BF-1A930BB0A7B2}
+	EndGlobalSection
+EndGlobal

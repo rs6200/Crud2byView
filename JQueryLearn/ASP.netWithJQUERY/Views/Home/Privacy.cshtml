@@ -1,0 +1,32 @@
+﻿@model ASP.netWithJQUERY.Models.Country
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+<label asp-for="Name"></label>
+<select id="Countryid" name="Countylist" asp-for="Id" asp-items="@(new SelectList(ViewBag.countries,"Id","Name"))"> 
+
+
+<option>Select Country name</option>    
+</select>
+
+<select id="Stateid" name="Statelist" asp-for="Id" asp-items="@(new SelectList(string.Empty,"Id","Name"))">
+</select>
+
+
+@*<script src="~/lib/jquery/dist/jquery.min.js"></script>*@
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<script>
+
+    $(function(){
+        $("#Countryid").change(function(){
+
+            var url = '@Url.Content("~/")' + "Home/getStateById";
+        })
+    })
+</script>

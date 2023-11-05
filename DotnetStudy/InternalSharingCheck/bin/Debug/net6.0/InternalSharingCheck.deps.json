@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InternalSharingCheck/1.0.0": {
+        "dependencies": {
+          "DotnetStudy": "1.0.0"
+        },
+        "runtime": {
+          "InternalSharingCheck.dll": {}
+        }
+      },
+      "DotnetStudy/1.0.0": {
+        "runtime": {
+          "DotnetStudy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternalSharingCheck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotnetStudy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

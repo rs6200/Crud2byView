@@ -1,0 +1,15 @@
+D:\DOTNET\ducatProject\ducatProject\bin\Debug\net6.0\ducatProject.exe
+D:\DOTNET\ducatProject\ducatProject\bin\Debug\net6.0\ducatProject.deps.json
+D:\DOTNET\ducatProject\ducatProject\bin\Debug\net6.0\ducatProject.runtimeconfig.json
+D:\DOTNET\ducatProject\ducatProject\bin\Debug\net6.0\ducatProject.dll
+D:\DOTNET\ducatProject\ducatProject\bin\Debug\net6.0\ducatProject.pdb
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.csproj.AssemblyReference.cache
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.AssemblyInfoInputs.cache
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.AssemblyInfo.cs
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.csproj.CoreCompileInputs.cache
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.dll
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\refint\ducatProject.dll
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.pdb
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ducatProject.genruntimeconfig.cache
+D:\DOTNET\ducatProject\ducatProject\obj\Debug\net6.0\ref\ducatProject.dll

@@ -1,0 +1,15 @@
+D:\DOTNET\DotnetStudy\InheritanceStudy\bin\Debug\net6.0\InheritanceStudy.exe
+D:\DOTNET\DotnetStudy\InheritanceStudy\bin\Debug\net6.0\InheritanceStudy.deps.json
+D:\DOTNET\DotnetStudy\InheritanceStudy\bin\Debug\net6.0\InheritanceStudy.runtimeconfig.json
+D:\DOTNET\DotnetStudy\InheritanceStudy\bin\Debug\net6.0\InheritanceStudy.dll
+D:\DOTNET\DotnetStudy\InheritanceStudy\bin\Debug\net6.0\InheritanceStudy.pdb
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.csproj.AssemblyReference.cache
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.AssemblyInfoInputs.cache
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.AssemblyInfo.cs
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.csproj.CoreCompileInputs.cache
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.dll
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\refint\InheritanceStudy.dll
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.pdb
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\InheritanceStudy.genruntimeconfig.cache
+D:\DOTNET\DotnetStudy\InheritanceStudy\obj\Debug\net6.0\ref\InheritanceStudy.dll

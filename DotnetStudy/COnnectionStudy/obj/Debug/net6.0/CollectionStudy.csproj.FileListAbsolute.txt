@@ -1,0 +1,15 @@
+D:\DOTNET\DotnetStudy\COnnectionStudy\bin\Debug\net6.0\CollectionStudy.exe
+D:\DOTNET\DotnetStudy\COnnectionStudy\bin\Debug\net6.0\CollectionStudy.deps.json
+D:\DOTNET\DotnetStudy\COnnectionStudy\bin\Debug\net6.0\CollectionStudy.runtimeconfig.json
+D:\DOTNET\DotnetStudy\COnnectionStudy\bin\Debug\net6.0\CollectionStudy.dll
+D:\DOTNET\DotnetStudy\COnnectionStudy\bin\Debug\net6.0\CollectionStudy.pdb
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.csproj.AssemblyReference.cache
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.AssemblyInfoInputs.cache
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.AssemblyInfo.cs
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.csproj.CoreCompileInputs.cache
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.dll
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\refint\CollectionStudy.dll
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.pdb
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\CollectionStudy.genruntimeconfig.cache
+D:\DOTNET\DotnetStudy\COnnectionStudy\obj\Debug\net6.0\ref\CollectionStudy.dll
